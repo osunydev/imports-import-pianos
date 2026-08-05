@@ -2,8 +2,8 @@
 
 allowed_domains:
   - "osunystaging-1b4da.kxcdn.com"
-  - "*.osuny.org"
-  - "osuny.s3.fr-par.scw.cloud"
+  - "*.osuny.dev"
+  - "osuny-staging.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "youtube.com"
   - "www.youtube.com"
